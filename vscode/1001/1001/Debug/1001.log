@@ -1,0 +1,16 @@
+﻿生成启动时间为 2019/2/14 星期四 13:23:39。
+     1>项目“D:\Programming\c++\数据结构与算法\PAT习题集\甲级\A1001\1001\1001\1001.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Programming\vs2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt 1001.cpp
+         1001.cpp
+     1>d:\programming\c++\数据结构与算法\pat习题集\甲级\a1001\1001\1001\1001.cpp(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\programming\vs2012\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>d:\programming\c++\数据结构与算法\pat习题集\甲级\a1001\1001\1001\1001.cpp(11): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Programming\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Programming\c++\数据结构与算法\PAT习题集\甲级\A1001\1001\Debug\1001.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Programming\c++\数据结构与算法\PAT习题集\甲级\A1001\1001\Debug\1001.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Programming\c++\数据结构与算法\PAT习题集\甲级\A1001\1001\Debug\1001.lib" /MACHINE:X86 Debug\1001.obj
+         1001.vcxproj -> D:\Programming\c++\数据结构与算法\PAT习题集\甲级\A1001\1001\Debug\1001.exe
+     1>已完成生成项目“D:\Programming\c++\数据结构与算法\PAT习题集\甲级\A1001\1001\1001\1001.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.72
